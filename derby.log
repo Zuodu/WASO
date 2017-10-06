@@ -1,0 +1,61 @@
+Fri Oct 06 08:31:27 CEST 2017 : Apache Derby Serveur réseau - 10.8.3.2 - (1557835) démarré et prêt à accepter les connexions sur le port 1527
+----------------------------------------------------------------
+Fri Oct 06 08:31:32 CEST 2017:
+Amorçage de Derby version The Apache Software Foundation - Apache Derby - 10.8.3.2 - (1557835) : instance a816c00e-015e-f061-b167-00001ed97af8 
+dans le répertoire de base de données C:\Temp\H4401GY\WASO-BD-Personne  avec le chargeur de classe sun.misc.Launcher$AppClassLoader@1d44bcfa
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_101-b13
+user.dir=C:\Program Files\Java\jdk1.7.0_71\db
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=C:\Temp\H4401GY
+Chargeur de classe de la base de données démarré - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Oct 06 08:31:49 CEST 2017:
+Fermeture de l'instance a816c00e-015e-f061-b167-00001ed97af8 sur le répertoire de base de données C:\Temp\H4401GY\WASO-BD-Personne avec le chargeur de classe sun.misc.Launcher$AppClassLoader@1d44bcfa
+Fri Oct 06 08:31:49 CEST 2017 Thread[DRDAConnThread_3,5,main] (DATABASE = WASO-BD-Personne), (DRDAID = {2}), Arrêt de la base de données 'WASO-BD-Personne'.
+----------------------------------------------------------------
+Fri Oct 06 08:33:45 CEST 2017:
+Amorçage de Derby version The Apache Software Foundation - Apache Derby - 10.8.3.2 - (1557835) : instance 6c44409f-015e-f061-b167-00001ed97af8 
+dans le répertoire de base de données C:\Temp\H4401GY\WASO-BD-Client  avec le chargeur de classe sun.misc.Launcher$AppClassLoader@1d44bcfa
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_101-b13
+user.dir=C:\Program Files\Java\jdk1.7.0_71\db
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=C:\Temp\H4401GY
+Chargeur de classe de la base de données démarré - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Oct 06 08:33:50 CEST 2017:
+Fermeture de l'instance 6c44409f-015e-f061-b167-00001ed97af8 sur le répertoire de base de données C:\Temp\H4401GY\WASO-BD-Client avec le chargeur de classe sun.misc.Launcher$AppClassLoader@1d44bcfa
+Fri Oct 06 08:33:50 CEST 2017 Thread[DRDAConnThread_3,5,main] (DATABASE = WASO-BD-Client), (DRDAID = {4}), Arrêt de la base de données 'WASO-BD-Client'.
+----------------------------------------------------------------
+Fri Oct 06 08:34:21 CEST 2017:
+Amorçage de Derby version The Apache Software Foundation - Apache Derby - 10.8.3.2 - (1557835) : instance 24fa0130-015e-f061-b167-00001ed97af8 
+dans le répertoire de base de données C:\Temp\H4401GY\WASO-BD-Client  avec le chargeur de classe sun.misc.Launcher$AppClassLoader@1d44bcfa
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_101-b13
+user.dir=C:\Program Files\Java\jdk1.7.0_71\db
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=C:\Temp\H4401GY
+Chargeur de classe de la base de données démarré - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Oct 06 08:34:24 CEST 2017:
+Amorçage de Derby version The Apache Software Foundation - Apache Derby - 10.8.3.2 - (1557835) : instance 34b10149-015e-f061-b167-00001ed97af8 
+dans le répertoire de base de données C:\Temp\H4401GY\WASO-BD-Personne  avec le chargeur de classe sun.misc.Launcher$AppClassLoader@1d44bcfa
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_101-b13
+user.dir=C:\Program Files\Java\jdk1.7.0_71\db
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=C:\Temp\H4401GY
+Chargeur de classe de la base de données démarré - derby.database.classpath=''
